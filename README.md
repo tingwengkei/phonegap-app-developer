@@ -1,3 +1,5 @@
+https://blog.phonegap.com/update-on-the-phonegap-developer-app-ios-99e07e3309dd
+
 # PhoneGap Developer App [![Build Status][travis-ci-img]][travis-ci-url]
 
 > Available in an app store near you!
